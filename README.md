@@ -105,7 +105,7 @@ Java 17 · Spring Boot 3.4 · Spring Data JPA / Hibernate · Spring Cloud (Eurek
 
 ## 👥 Context
 
-Team project — 4th year Software Engineering, ESPRIT (2025). I developed this microservice and the related Angular screens (applications, students, CV display, statistics); the other microservices of the platform were developed by my teammates.
+Team project — 4th year Software Engineering, ESPRIT (2025). Each team member owned one functional module of StageLoop. **I owned the Students & Applications module end-to-end**: this Spring Boot microservice and its Angular screens (applications, students, CV display, statistics). The other modules and the final integrated version of the platform were built by my teammates.
 
 ---
 
