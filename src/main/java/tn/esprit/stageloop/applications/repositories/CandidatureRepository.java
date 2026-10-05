@@ -1,7 +1,7 @@
-package application.mobile.terrainpadel.repositories;
+package tn.esprit.stageloop.applications.repositories;
 
-import application.mobile.terrainpadel.entities.Candidature;
-import application.mobile.terrainpadel.entities.StatutCandidature;
+import tn.esprit.stageloop.applications.entities.Candidature;
+import tn.esprit.stageloop.applications.entities.StatutCandidature;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

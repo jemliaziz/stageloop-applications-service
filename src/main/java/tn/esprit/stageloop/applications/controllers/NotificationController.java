@@ -1,6 +1,6 @@
-package application.mobile.terrainpadel.controllers;
+package tn.esprit.stageloop.applications.controllers;
 
-import application.mobile.terrainpadel.services.IServices;
+import tn.esprit.stageloop.applications.services.IServices;
 import lombok.RequiredArgsConstructor;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.SendTo;

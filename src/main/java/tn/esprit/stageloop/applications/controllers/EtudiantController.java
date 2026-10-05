@@ -1,10 +1,10 @@
-package application.mobile.terrainpadel.controllers;
+package tn.esprit.stageloop.applications.controllers;
 
 import java.util.List;
 
-import application.mobile.terrainpadel.entities.Etudiant;
-import application.mobile.terrainpadel.repositories.EtudiantRepository;
-import application.mobile.terrainpadel.services.IServices;
+import tn.esprit.stageloop.applications.entities.Etudiant;
+import tn.esprit.stageloop.applications.repositories.EtudiantRepository;
+import tn.esprit.stageloop.applications.services.IServices;
 import lombok.AllArgsConstructor;
 
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;

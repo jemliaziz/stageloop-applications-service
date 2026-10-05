@@ -1,4 +1,4 @@
-package application.mobile.terrainpadel;
+package tn.esprit.stageloop.applications;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -10,10 +10,10 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 @EnableScheduling
 @SpringBootApplication
 @EnableDiscoveryClient
-public class AzizjemliClasseExamenApplication {
+public class ApplicationsServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AzizjemliClasseExamenApplication.class, args);
+        SpringApplication.run(ApplicationsServiceApplication.class, args);
     }
 
 }

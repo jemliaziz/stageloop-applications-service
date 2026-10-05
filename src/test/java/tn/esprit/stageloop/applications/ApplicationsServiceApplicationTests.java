@@ -1,10 +1,10 @@
-package application.mobile.terrainpadel;
+package tn.esprit.stageloop.applications;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class azizjemliClasseExamenApplicationTests {
+class ApplicationsServiceApplicationTests {
 
     @Test
     void contextLoads() {

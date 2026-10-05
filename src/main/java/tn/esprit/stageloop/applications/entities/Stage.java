@@ -1,4 +1,4 @@
-package application.mobile.terrainpadel.entities;
+package tn.esprit.stageloop.applications.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

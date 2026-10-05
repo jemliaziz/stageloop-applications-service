@@ -1,4 +1,4 @@
-package application.mobile.terrainpadel.aspects;
+package tn.esprit.stageloop.applications.aspects;
 /*
 import lombok.extern.slf4j.Slf4j;
 import org.aspectj.lang.JoinPoint;
@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 @Component
 @Aspect
 public class LoggingAspect {
-    @Pointcut("execution (* application.mobile.terrainpadel.services.*.*(..))")
+    @Pointcut("execution (* tn.esprit.stageloop.applications.services.*.*(..))")
     public void methodCall() {}
 
     @Before("methodCall()")

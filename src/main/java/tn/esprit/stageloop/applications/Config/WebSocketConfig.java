@@ -1,4 +1,4 @@
-package application.mobile.terrainpadel.Config;
+package tn.esprit.stageloop.applications.Config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;

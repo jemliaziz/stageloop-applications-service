@@ -1,4 +1,4 @@
-package application.mobile.terrainpadel.entities;
+package tn.esprit.stageloop.applications.entities;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.*;

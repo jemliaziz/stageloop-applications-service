@@ -1,7 +1,7 @@
-package application.mobile.terrainpadel.services;
+package tn.esprit.stageloop.applications.services;
 
-import application.mobile.terrainpadel.entities.Candidature;
-import application.mobile.terrainpadel.entities.Etudiant;
+import tn.esprit.stageloop.applications.entities.Candidature;
+import tn.esprit.stageloop.applications.entities.Etudiant;
 
 import java.util.List;
 

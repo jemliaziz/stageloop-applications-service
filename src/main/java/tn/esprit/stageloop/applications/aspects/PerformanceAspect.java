@@ -1,4 +1,4 @@
-package application.mobile.terrainpadel.aspects;
+package tn.esprit.stageloop.applications.aspects;
 /*
 import lombok.extern.slf4j.Slf4j;
 import org.aspectj.lang.ProceedingJoinPoint;
@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 @Component
 @Aspect
 public class PerformanceAspect {
-    @Around("execution(* application.mobile.terrainpadel.services.*.*(..))")
+    @Around("execution(* tn.esprit.stageloop.applications.services.*.*(..))")
     public Object profile(ProceedingJoinPoint pjp) throws Throwable {
         long start = System.currentTimeMillis();
         Object obj = pjp.proceed();

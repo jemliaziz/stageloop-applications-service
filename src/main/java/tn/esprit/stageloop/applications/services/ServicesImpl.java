@@ -1,4 +1,4 @@
-package application.mobile.terrainpadel.services;
+package tn.esprit.stageloop.applications.services;
 
 import jakarta.persistence.EntityNotFoundException;
 import jakarta.transaction.Transactional;
@@ -6,11 +6,11 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
-import application.mobile.terrainpadel.entities.Candidature;
-import application.mobile.terrainpadel.entities.Etudiant;
-import application.mobile.terrainpadel.entities.StatutCandidature;
-import application.mobile.terrainpadel.repositories.EtudiantRepository;
-import application.mobile.terrainpadel.repositories.CandidatureRepository;
+import tn.esprit.stageloop.applications.entities.Candidature;
+import tn.esprit.stageloop.applications.entities.Etudiant;
+import tn.esprit.stageloop.applications.entities.StatutCandidature;
+import tn.esprit.stageloop.applications.repositories.EtudiantRepository;
+import tn.esprit.stageloop.applications.repositories.CandidatureRepository;
 
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;

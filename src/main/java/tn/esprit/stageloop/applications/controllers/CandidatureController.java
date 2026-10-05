@@ -1,9 +1,9 @@
-package application.mobile.terrainpadel.controllers;
+package tn.esprit.stageloop.applications.controllers;
 
-import application.mobile.terrainpadel.entities.Candidature;
-import application.mobile.terrainpadel.entities.StatutCandidature;
-import application.mobile.terrainpadel.repositories.CandidatureRepository;
-import application.mobile.terrainpadel.services.IServices;
+import tn.esprit.stageloop.applications.entities.Candidature;
+import tn.esprit.stageloop.applications.entities.StatutCandidature;
+import tn.esprit.stageloop.applications.repositories.CandidatureRepository;
+import tn.esprit.stageloop.applications.services.IServices;
 import jakarta.annotation.Resource;
 import lombok.RequiredArgsConstructor;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
