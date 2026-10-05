@@ -1,0 +1,13 @@
+package application.mobile.terrainpadel;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class azizjemliClasseExamenApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
